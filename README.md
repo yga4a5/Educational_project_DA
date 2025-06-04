@@ -1,4 +1,5 @@
 # Bicycle Shop Sales Analysis
+![bike_store_sales_visualization_Power_BI](https://github.com/user-attachments/assets/c8c8dadd-5ba6-4ca3-82fe-3b4b02ea16fb)
 
 ## Table of Contents 
 - [Data Analysis Workflow](#data-analysis-workflow)
@@ -23,6 +24,7 @@
 
 ## Project Overview
 This data analysis project aims to provide insights into a Bicycle Shop's sales performance over the past two years. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
+
 
 ## Data Sources
 Sales Data: The primary dataset used for this analysis is the "bike_share_yr_0.csv," "bike_share_yr_1.csv," and "cost_table.csv" files, which contain detailed information about each sale made by the company.
